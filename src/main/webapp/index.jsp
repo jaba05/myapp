@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Modified to check the SCM mode</h2>
+<h2>Modified to check the SCM method in Jenkins</h2>
 </body>
 </html>
